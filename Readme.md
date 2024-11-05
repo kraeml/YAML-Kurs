@@ -1,6 +1,25 @@
+<!--
+author:   Michael Schaar
+
+email:    kraeml@sesamestreet.franken.de
+
+version:  0.0.1
+
+language: de
+
+narrator: DE German Female
+
+comment:  Ein Kurs über YAML
+
+link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
+
+script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
+
+-->
+
 # YAML Einstieg
 
-YAML (YAML Ain't Markup Language) ist ein menschenlesbarer Serialisierungsstandard, der häufig für Konfigurationsdateien und Datenaustauschformate verwendet wird. 
+YAML (YAML Ain't Markup Language) ist ein menschenlesbarer Serialisierungsstandard, der häufig für Konfigurationsdateien und Datenaustauschformate verwendet wird.
 
 Die wichtigsten Punkte zu YAML:
 
@@ -27,6 +46,8 @@ Die YAML-Spezifikation wird von der YAML Association gepflegt, um die Konsistenz
 YAML bietet eine einfache und dennoch mächtige Möglichkeit, strukturierte Daten in einem für den Menschen lesbaren Format darzustellen und wird daher in der modernen Softwareentwicklung gerne für Konfigurationsdateien und den Datenaustausch verwendet.Hier eine Zusammenfassung des
 
 ## Vergleichs von YAML, JSON und XML:
+
+--{{0}}--
 
 ### Allgemeine Merkmale
 
@@ -149,10 +170,10 @@ Basierend auf der Webseite "What is YAML" von Red Hat, hier eine Zusammenfassung
 #Comment: This is a supermarket list using YAML
 #Note that - character represents the list
 ---
-food: 
+food:
  - vegetables: tomatoes #first list item
  - fruits: #second list item
-      citrics: oranges 
+      citrics: oranges
       tropical: bananas
       nuts: peanuts
       sweets: raisins
