@@ -25,21 +25,30 @@ Die wichtigsten Punkte zu YAML:
 
 1. Menschenlesbar:  
 YAML verwendet Einrückungen und Leerzeichen, um hierarchische Datenstrukturen darzustellen.
+
 2. Vielseitig:  
 YAML kann für verschiedene Zwecke eingesetzt werden, z.B. für Konfigurationsdateien, Datenaustauschformate und Sprachen zur Dokumentenerstellung.
+
 3. Einfache Syntax:  
 YAML unterstützt grundlegende Datentypen wie Strings, Zahlen, Booleans, Arrays und Dictionaries (Hashes).
+
 4. Erweiterbar:  
 Die Funktionalität von YAML kann durch eigene Tags und Anker erweitert werden.
+
 5. Sprachenunabhängig:  
 YAML ist nicht an eine bestimmte Programmiersprache gebunden und kann daher plattform- und systemübergreifend eingesetzt werden.
+
 6. Gängige Anwendungsfälle:  
 Konfigurationsdateien, Datenserialisierung und Dokumentenaufbereitung sind gängige Anwendungsfälle für YAML.
+
 7. Vergleich mit anderen Formaten YAML wird häufig mit JSON und XML verglichen, bietet aber eine bessere Lesbarkeit und Flexibilität.
+
 8. Tools und Bibliotheken:  
 Verschiedene Tools und Bibliotheken unterstützen das Parsen und Generieren von YAML in vielen Programmiersprachen.
+
 9. Akzeptanz in der Industrie:  
 YAML ist in den Bereichen DevOps, Cloud Computing und Container-Technologien wie Docker und Kubernetes weit verbreitet.
+
 10. Standardisierung:  
 Die YAML-Spezifikation wird von der YAML Association gepflegt, um die Konsistenz der Implementierungen zu gewährleisten.
 
