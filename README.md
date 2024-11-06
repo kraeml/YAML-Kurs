@@ -19,7 +19,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 # YAML Einstieg
 
-YAML (YAML Ain't Markup Language[^1]) ist ein menschenlesbarer Serialisierungsstandard, der häufig für Konfigurationsdateien und Datenaustauschformate verwendet wird.
+YAML (YAML Ain't Markup Language[^web1]) ist ein menschenlesbarer Serialisierungsstandard, der häufig für Konfigurationsdateien und Datenaustauschformate verwendet wird.
 
 YAML verwendet eine einfache Syntax mit Klammern, Doppelpunkten und Kommas:
 
@@ -1174,8 +1174,9 @@ Diese Art der Strukturierung ist besonders nützlich für Konfigurationsdateien 
 
 Diese Zusammenfassung umfasst die wichtigsten Aspekte der YAML-Syntax, wie sie auf der Website von Red Hat beschrieben ist. YAML bietet eine einfache und lesbarkeitsorientierte Methode zur Darstellung strukturierter Daten.
 
-[^1]: https://www.redhat.com/de/topics/automation/what-is-yaml
+[^web1]: https://www.redhat.com/de/topics/automation/what-is-yaml
 
 ## Weblinks
 - https://www.redhat.com/de/topics/automation/what-is-yaml
 - https://de.wikipedia.org/wiki/YAML#Beispiele
+- https://www.educative.io/blog/advanced-yaml-syntax-cheatsheet#YAML-Anchors-and-Alias
