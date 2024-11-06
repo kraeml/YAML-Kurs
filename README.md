@@ -3,7 +3,7 @@ author:   Michael Schaar
 
 email:    kraeml@sesamestreet.franken.de
 
-version:  0.0.2
+version:  0.0.3
 
 language: de
 
